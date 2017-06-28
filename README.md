@@ -1,6 +1,6 @@
-# Bait-and-Switch Plugin
+# Feature Tracking Plugin
 
-Review information concerning plugins created using the bait-and-switch approach. 
+This plugin was created using the bait-and-switch approach. 
 
 > _Note - these plugins aren't published on NuGet._ 
 
