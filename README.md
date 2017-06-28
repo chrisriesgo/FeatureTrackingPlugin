@@ -2,7 +2,7 @@
 
 This plugin was created using the bait-and-switch approach. 
 
-> _Note - these plugins aren't published on NuGet._ 
+> _Note - this plugin isn't published on NuGet._ 
 
 - **Plugin.FeatureTracking** - source code for my _Plugin.FeatureTracking_ plugin that was created using the bait-and-switch approach.
 
